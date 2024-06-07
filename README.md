@@ -1,4 +1,7 @@
 
+https://github.com/Moutazbaaj/GoldenSyntax/blob/main/img/img1.png
+
+
 # Golden Syntax
 
 In the world of **Golden Syntax**, our formidable hero team, led by the valiant Alexios the Fighter, has traversed through treacherous landscapes, solved intricate puzzles, and conquered formidable dungeons. Now, they stand before the imposing gates of the Cursed Citadel, the lair of the malevolent sorcerer, Aeron the Dark Magician, and his fearsome ally, Phobus the Dragon. Legends speak of their dark powers and the unspeakable creatures that guard the inner sanctum.
