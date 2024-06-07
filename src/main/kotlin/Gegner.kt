@@ -1,0 +1,1 @@
+open class Gegner(var name: String, var hp: Int)
