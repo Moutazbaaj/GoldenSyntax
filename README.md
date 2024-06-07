@@ -1,5 +1,5 @@
 
-"https://github.com/Moutazbaaj/GoldenSyntax/blob/main/img/img1.png"
+"https://raw.githubusercontent.com/Moutazbaaj/GoldenSyntax/main/img/img1.png"
 
 
 # Golden Syntax
